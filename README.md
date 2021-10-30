@@ -9,7 +9,7 @@ need any special build or release steps.
 
 This shareable configuration is meant to be used in conjunction with
 [@gliech/semantic-release-config-base][2] which serves as the source for most
-changes to the default options of plugins used here.
+changes to the default options for plugins used here.
 
 ## License
 

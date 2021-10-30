@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gliech/semantic-release-config-github-generic/compare/v1.0.0...v1.0.1) (2021-10-30)
+
+
+### Dependency Updates
+
+* allow usage with semrel 18 ([4d94284](https://github.com/gliech/semantic-release-config-github-generic/commit/4d94284aed8976ab61a772eeb1ab9b87e53eeb30))
+
 # 1.0.0 (2021-06-06)
 
 

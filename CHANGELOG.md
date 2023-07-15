@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gliech/semantic-release-config-github-generic/compare/v1.0.1...v1.1.0) (2023-07-15)
+
+
+### Features
+
+* **deps:** use direct dependencies ([b73ce33](https://github.com/gliech/semantic-release-config-github-generic/commit/b73ce33d31c7617d9aac2b89273233799d39b883))
+
 ## [1.0.1](https://github.com/gliech/semantic-release-config-github-generic/compare/v1.0.0...v1.0.1) (2021-10-30)
 
 
